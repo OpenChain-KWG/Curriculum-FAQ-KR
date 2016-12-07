@@ -1,6 +1,8 @@
-What is the OpenChain Curriculum used for?
+## OpenChain Curriculum은 어떻게 사용되는가?
+- OpenChain Curriculum Slide는 OpenChain Speification 1.0, Requirement 1.2을 충족하기 위한 참고 자료를 제공한다. 
 
-The OpenChain Curriculum slide deck provides reference material to meet OpenChain specification 1.0, requirement 1.2.
+## OpenChain Curriculum은 누구를 위한 것인가? 
+- OpenChain Curriculum은 Open Source Software를 출하하는 회시ㅏ, 그리고 이를 공급망(Supply Chain)을 통해 제공받는 회사를 돕기 위한 것이다. 
 
 Who is the OpenChain Curriculum intended for?
 
